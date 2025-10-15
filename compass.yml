@@ -1,0 +1,13 @@
+name: Vscode-C-Cpp-Runner
+id: ari:cloud:compass:a5fd7e86-1037-4957-88e1-656b1179d617:component/30307f94-33fc-4613-b40d-651fee166c5e/31c9626b-c17e-469d-bb4f-2d9190b25847
+description: 🚀 Compile, run and debug single or multiple C/C++ files with ease. 🚀
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
